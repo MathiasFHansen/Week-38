@@ -3,7 +3,7 @@
 void setup() {
   printyboi();            //calls 1.a function
   printystring("Cake");   //calls 1.b function
-  myInfo("Mathias", 24);  //calls 1.c function
+  myInfo("Mathias", 23);  //calls 1.c function
 }
 
 //1.a function
